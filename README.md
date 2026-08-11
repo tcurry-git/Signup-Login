@@ -1,0 +1,4 @@
+In this project I took my basic knowledge of PHP and expanded on it by building a fully functional account creation and login page and applying what I already know whilst learning more about the language along the way. I focused on making the site seem as authentic and real as possible by including features present in all sites that use PHP such as dynamic webpages, validation, database manipulation and error handling. In terms of the UI design I personally didn't spent much time at all thinking about it as I just wanted to demonstrate purely my PHP skills, I just picked some nice, tech related colours such as purples and muted colours and got stuck in to the actual development side of thing which is what I love doing.  Below are a collection of snippets from the site to show you what it looks like from a user perspective:
+<img width="1916" height="922" alt="image" src="https://github.com/user-attachments/assets/1e0518a2-7b53-467f-acca-7aa68aadb39a" />
+
+
