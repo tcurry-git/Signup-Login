@@ -1,5 +1,8 @@
-(JUNE - AUGUST 2026)
-Stack: HTML, CSS, JS, PHP, Apache + MySQL database
+Title **PHP-Based login system**
+
+Timeline: **JUNE 2026 - AUG 2026**
+
+Stack: **HTML, CSS, JS, PHP, Apache, MySQL database**
 
 In this project I took my basic knowledge of PHP and expanded on it by building a fully functional sign up and login page and applying what I already know whilst learning more about the language along the way. As a result of developing this project I learnt: the basics of creating a database, how to connect to a database using PDO, how to manipulate data in databases ensuring again I use PDO and prepared statements for security, importance of hashing passwords and how to do so, basics of how to use $_SESSION and $_COOKIE super global variables, got exposed to error handling and guarding unauthorized users from certain pages and finally, properly learnt how foreach loops in JavaScript and how to use valid/invalid classes to show the user when an input is valid/invalid or not dynamically. In terms of the UI design I personally didn't spent much time at all thinking about it as I just wanted to demonstrate purely my PHP skills, I just picked some nice, tech related colours such as purples and muted colours and got stuck in to the actual development side of thing which is what I love doing.  Below are a collection of snippets from the site to show you what it looks like from a user perspective as unfortunately I cannot host a server-side website on Github pages:
 
