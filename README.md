@@ -4,7 +4,25 @@ Timeline: **JUNE 2026 - AUG 2026**
 
 Stack: **HTML, CSS, JS, PHP, Apache, MySQL database**
 
-In this project I took my basic knowledge of PHP and expanded on it by building a fully functional sign up and login page and applying what I already know whilst learning more about the language along the way. As a result of developing this project I learnt: the basics of creating a database, how to connect to a database using PDO, how to manipulate data in databases ensuring again I use PDO and prepared statements for security, importance of hashing passwords and how to do so, basics of how to use $_SESSION and $_COOKIE super global variables, got exposed to error handling and guarding unauthorized users from certain pages and finally, properly learnt how foreach loops in JavaScript and how to use valid/invalid classes to show the user when an input is valid/invalid or not dynamically. In terms of the UI design I personally didn't spent much time at all thinking about it as I just wanted to demonstrate purely my PHP skills, I just picked some nice, tech related colours such as purples and muted colours and got stuck in to the actual development side of thing which is what I love doing.  Below are a collection of snippets from the site to show you what it looks like from a user perspective as unfortunately I cannot host a server-side website on Github pages:
+WHAT IT IS
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This project is a Sign up / Log in system where users can create an account, login and receive a dynamic welcome message, and change their password.
+
+WHY I MADE IT
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Before this project I had only experimented with front-end technologies and decided I wanted to get a taster of PHP and how allow users to interact with a database.
+
+WHAT I LEARNT
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+• How to create a database connect it to your development environment use PDO
+• How to manipulate data in databases using prepared statements to protect against SQL injection
+• How to hash password using password_hash()
+• How to check if the user has entered the correct password by comparing their inputted password to the stored hash password using password_verify()
+• How to use $_SESSION to guard unauthorized users from certain pages
+• How to create cookies using setcookie() and how to retrieve them / check if they exists using isset() and $_COOKIE
+• How to guard unauthorized users from certain pages 
+
+**Below are a collection of snippets from the site to show you what it looks like from a user perspective as unfortunately I cannot host a server-side website on Github pages:**
 
 <img width="1916" height="922" alt="image" src="https://github.com/user-attachments/assets/1e0518a2-7b53-467f-acca-7aa68aadb39a" />
 <img width="1047" height="900" alt="image" src="https://github.com/user-attachments/assets/d632ae38-afd7-42b4-a251-4ec58a25d11d" />
