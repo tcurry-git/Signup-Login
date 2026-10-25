@@ -17,10 +17,10 @@ WHAT I LEARNT
 • How to create a database connect it to your development environment use PDO
 • How to manipulate data in databases using prepared statements to protect against SQL injection
 • How to hash password using password_hash()
+• How to auto-login users using a browser cookie token
 • How to check if the user has entered the correct password by comparing their inputted password to the stored hash password using password_verify()
-• How to use $_SESSION to guard unauthorized users from certain pages
 • How to create cookies using setcookie() and how to retrieve them / check if they exists using isset() and $_COOKIE
-• How to guard unauthorized users from certain pages 
+• How to guard unauthorized users from certain pages through referencing $_SESSIONS on pages that require authentication
 
 **Below are a collection of snippets from the site to show you what it looks like from a user perspective as unfortunately I cannot host a server-side website on Github pages:**
 
